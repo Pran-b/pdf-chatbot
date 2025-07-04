@@ -1,0 +1,6 @@
+boto3
+langchain
+faiss-cpu
+pypdf2
+streamlit
+ollama
