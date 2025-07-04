@@ -1,3 +1,15 @@
+# --- README.md (excerpt) ---
+# "PDF Chatbot with AWS Bedrock or Ollama"
+# Upload any PDF and ask questions powered by Claude 3 Sonnet (Bedrock) or local LLMs via Ollama. Choose provider via dropdown.
+#
+# 🚀 Getting Started:
+# - `pip install -r requirements.txt`
+# - Setup either AWS Bedrock credentials or Ollama locally
+# - `streamlit run app.py`
+#
+# Want to build this for your business? Reach out on LinkedIn.
+
+
 # pdf-chatbot
 # 📘 Project: PDF Q&A Bot using AWS Bedrock + LangChain + Ollama
 
